@@ -1,0 +1,12 @@
+{
+  "duration": 24,
+  "beats": [
+    { "at": 0, "part": "assembly" },
+    { "at": 3, "part": "input", "sound": "select" },
+    { "at": 6.8, "part": "planets", "sound": "select" },
+    { "at": 10.6, "part": "ring", "sound": "select" },
+    { "at": 14.4, "part": "output", "sound": "select" },
+    { "at": 18.2, "part": "exploded", "sound": "expand" },
+    { "at": 22, "part": "assembly", "sound": "return" }
+  ]
+}
